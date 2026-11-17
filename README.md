@@ -1,11 +1,13 @@
 # Mobile App Development Jobsheets
 
-Collection of practical lab exercises, responsive web layouts, and frontend coursework completed for the Mobile Application Development module.
+Joint coursework portal and lab exercise repository built for the Mobile Application Development module, deployed on Cloudflare Workers.
+
+- **Live Portal:** https://jobsheetsyammar.syamsulock0457.workers.dev/
 
 ## Repository Structure
 ```text
-├── index.html          # Main jobsheet progress tracker & navigation portal
-├── index.css           # Responsive styling for the progress dashboard
-├── about_us.html       # Module and team overview page
+├── index.html          # Main landing portal and navigation hub
+├── index.css           # Responsive styling and dark UI theme
+├── about_us.html       # Team and module overview page
 ├── aboutus.css         # Stylesheet for the overview page
-└── syamsul/            # Completed individual jobsheet exercises and lab tasks
+└── syamsul/            # Completed individual jobsheet labs (Syamsul Nazir)
